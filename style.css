@@ -1,0 +1,326 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #081543;
+    line-height: 1.5;
+    font-size: 1re;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    max-width: 1052px;
+    margin: 0 auto;
+    background-image: url(svg/Ellipse\ 6.svg);
+    background-position-y: -40px;
+    background-position-x: 500px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+footer {
+    width: 1360px;
+    height: 104px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    max-width: 1052px;
+    margin: 0 auto;
+}
+.sdelano-v-kz {
+    margin-left: 800px;
+    margin-top: -67px;
+    position: absolute;
+}
+.arrow-1 {
+    margin-left: 780px;
+    margin-top: -67px;
+    position: absolute;
+}
+.logo-container img {
+    width: 100px; 
+    height: auto; 
+    margin-bottom: -1px;
+}
+.logo-container р {
+    font-size: 18px; 
+    margin-top: 1px; 
+}
+.menu {
+    display: flex;
+    list-style: none;
+}
+.menu li {
+    margin-left: 37px;
+}
+.menu li a {
+    color: #081543; 
+    text-decoration: none; 
+}
+.menu li a:hover {
+    color: red;
+}
+.about-company {
+    max-width: 1052px;
+    margin: 0 auto;
+}
+.header elipse {
+    background-image: url(/svg/Ellipse\ 6.svg);
+    background-image: url(/svg/Ellipse\ 7.svg);
+}
+.carousel {
+    background-image: url(svg/Black.png);
+    position: relative;
+    width: 1360px;
+    height: 410px;
+    margin: 0 auto;
+    margin-top: 465px;
+}
+.content-inner {
+    width: 1202px;
+    height: 48px;
+    margin-top: 182px;
+    margin-left: 78px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content-outer {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+.our-team {
+    max-width: 1052px;
+    margin: 0 auto;
+    margin-top: 72px;
+}
+.our-team h1 {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.team-member-kart {
+    background-image: url(svg/Rectangle\ 361.svg);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 531px;
+    height: 353px;
+    flex-shrink: 0;
+}
+.name-surname-position {
+    width: 160px;
+    height: 29px;
+    margin-left: 35px;
+}
+.name-surname-position h1 {
+    margin-top: 32px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.name-surname-position p {
+    color: #818D94;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 9px;
+}
+.contact-information {
+    width: 286px;
+    height: 19px;
+    margin-top: 18px;
+    margin-left: 35px; 
+    display: flex;
+    justify-content: space-between;
+}
+.line-img {
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+.team-member-kart ul {
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.team-member-kart li {
+    color: #FF4040;
+}
+.team-member-kart li span{
+    color: #505D68;
+    font-family: 'Roboto', sans-serif;;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.img-block {
+    margin-left: 532px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    background-image: url(svg/Ellipse\ 12.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+}
+
+
+.large-image img {
+    width: 421px;
+    height: 352px;
+  }
+  
+.small-images {
+    display: grid;
+    grid-template-rows: repeat(4, 72.793px); 
+    grid-gap: 20.21px; 
+}
+  
+.small-images img {
+    width: 90.515px;
+    height: 72.793px;
+    max-width: 100%; 
+}
+    
+.first-small-image {
+    border: 2px solid red; 
+
+}
+
+.carousel-2 {
+    background-image: url(svg/Black.png);
+    position: relative;
+    width: 1360px;
+    height: 528px;
+    margin: 0 auto;
+    margin-top: 97px;
+}
+.content-inner-2 {
+    width: 1202px;
+    height: 48px;
+    margin-top: 182px;
+    margin-left: 78px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content-outer-2 {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.carousel-2 h1{
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 65px;
+}
+.partners {
+    width: 1360px;
+    height: 252px;
+    margin: 0 auto;
+    margin-top: 65px;
+}
+.partners h1 {
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.logos {
+    margin-left: 108px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+.map-and-information {
+    width: 1365px;
+    height: 410px;
+    margin: 0 auto;
+}
+.map {
+    width: 1365px;
+    height: 410px;
+
+}
+.contact-cart {
+    background-color: white;
+    position: absolute;
+    width: 531px;
+    height: 353px;
+    flex-shrink: 0;
+    margin-left: 154px;
+    margin-top: 43px;
+}
+.contact-text {
+    text-align: center;
+}
+.contact-text h1 {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.contact-text p {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.contact-cart ul {
+    margin-top: 20px;
+    margin-left: 71px;
+}
+.geo { 
+    list-style: url(svg/Location.svg);
+}
+.phone {
+    list-style: url(svg/Phone.svg);
+}
+.mail {
+    list-style: url(svg/Mail_inverse.svg);
+}
+.p-1 {
+    color: #818D94;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo-container-2 img {
+    width: 100px; 
+    height: auto; 
+    margin-bottom: -1px;
+}
+.logo-container-2 р {
+    font-size: 18px; 
+    margin-top: 1px; 
+}
+.menu-2 {
+    display: flex;
+    list-style: none;
+}
+.menu-2 li {
+    margin-left: 37px;
+}
+.menu-2 li a {
+    color: #081543; 
+    text-decoration: none; 
+}
+.menu-2 li a:hover {
+    color: red;
+}
+
+
